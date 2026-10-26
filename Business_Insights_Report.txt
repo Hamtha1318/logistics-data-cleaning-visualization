@@ -1,0 +1,27 @@
+
+BUSINESS INSIGHTS — LOGISTICS DATA ANALYSIS
+
+1. Delivery Performance
+The dataset contains 9 shipments: 6 delivered and 3 delayed.
+The delivery rate among delivered and delayed shipments is 66.67%.
+
+2. Shipping Costs
+Dubai has the highest average shipping cost in this sample at Rs. 1805.
+This result is influenced by an unusually high shipping cost and needs investigation.
+
+3. Delivery Times
+The average delivery time is 6.28 days.
+
+4. Data Quality
+Missing values were filled, duplicate records were removed, and potential
+outliers in shipping costs and delivery times were investigated.
+
+5. Recommendations
+Investigate delayed shipments, verify unusually high shipping charges,
+and monitor delivery performance by city.
+
+Conclusion:
+Python, Pandas and Matplotlib were used to clean and visualize logistics data.
+
+Note: This is a simulated dataset created for learning purposes.
+It does not represent actual company performance.
